@@ -1,9 +1,9 @@
 {
   "format": "layall-scaffold-lock",
   "version": 1,
-  "templateVersion": "2.0.1",
+  "templateVersion": "2.0.2",
   "generatorVersion": "0.1.0",
-  "embeddedBundleSha256": "7ac341f8ce0a4aebd42a77edb2215929cff4397dc2a3582e0e64a55e03bba61d",
+  "embeddedBundleSha256": "a2ffc179fd2f1077e9881a727a2908d9517f206ecb5d1731a93fe2fee8ff8b0b",
   "files": {
     ".layall-blog.json": {
       "sha256": "81bcca56c75685bde13d145da7735af1b3aaadf1fdd496a00c3cd48144e9b86b"
@@ -24,7 +24,7 @@
       "sha256": "a874888c541bec36805776662698355ddbfc2520e224b73ece8be4ce1e6ef2aa"
     },
     ".layall/previews/portfolio.webp": {
-      "sha256": "c8f0202a831e4f18b3f4898a35d25672ebe0d9c9c60fb782fa19a4d6ddc3bc1d"
+      "sha256": "18033db72672b5480fe52f03bd78c90f9f1e3107feb4515f78422e4f6f17b206"
     },
     ".layall/schemas/layall-public-note-v1.schema.json": {
       "sha256": "55e2f23df58e79b4688c0267b688223e210598d9fbf4a8426aadc21d4561acdc"
@@ -33,7 +33,7 @@
       "sha256": "67e2d65cbdfee0963d2482c9d1dc37b96110042cc62fbf8c1b269d098547e989"
     },
     ".layall/template-manifest.json": {
-      "sha256": "5d7a911654b7e4f714e83f82ecafcce7c25f0c01346009b10497ff293637ca0a"
+      "sha256": "b7d62d73160fd7ddf29b3bcc92c2202722d2da36500a8174b6770af07c10bf56"
     },
     ".layall/theme.json": {
       "sha256": "ddac456a635519c8c93fc9217d9df3f62a43d57501e246aa1989590c4e910f11"
