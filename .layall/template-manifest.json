@@ -4,7 +4,7 @@
   "themeContractVersion": 4,
   "template": {
     "id": "layall-static-site",
-    "version": "2.0.0",
+    "version": "2.0.1",
     "templateOwner": "seungyeah",
     "templateRepository": "layall-blog-template"
   },
@@ -13,7 +13,7 @@
     "execution": "local-tauri",
     "engine": "askama",
     "generatorVersion": "0.1.0",
-    "embeddedBundleSha256": "9f3fe36b3cef1483a65aba41318494a12825d2a58bf46de6fc084d780485d315"
+    "embeddedBundleSha256": "7ac341f8ce0a4aebd42a77edb2215929cff4397dc2a3582e0e64a55e03bba61d"
   },
   "paths": {
     "siteConfig": ".layall/site.toml",

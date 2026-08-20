@@ -1,30 +1,30 @@
 {
   "format": "layall-scaffold-lock",
   "version": 1,
-  "templateVersion": "2.0.0",
+  "templateVersion": "2.0.1",
   "generatorVersion": "0.1.0",
-  "embeddedBundleSha256": "9f3fe36b3cef1483a65aba41318494a12825d2a58bf46de6fc084d780485d315",
+  "embeddedBundleSha256": "7ac341f8ce0a4aebd42a77edb2215929cff4397dc2a3582e0e64a55e03bba61d",
   "files": {
     ".layall-blog.json": {
       "sha256": "81bcca56c75685bde13d145da7735af1b3aaadf1fdd496a00c3cd48144e9b86b"
     },
     ".layall/previews/blog.webp": {
-      "sha256": "1a468d5514fb1d2a8ddff7fb98aa5b4fc970586641a267f75e8d83d5051a5346"
+      "sha256": "f6a424b142a7aca33c01705bdf568092b81b31860ba53ca36abadaaf01222f5b"
     },
     ".layall/previews/docs.webp": {
-      "sha256": "cd341dc43ffa297e66b10495d36f635ab100025e39cccee0abc4dcfe5af76fd0"
+      "sha256": "8b3a84579dd1bd3567a21f0ad1e4e484f923f678f642aecdd8edf4b65725532e"
     },
     ".layall/previews/github.webp": {
-      "sha256": "f6ddc485210e5736e503b929f32c6d929c69bc95617b7202af8e67c16547f681"
+      "sha256": "0d054249a438b6c4b328575b4360bb9097de7ef28f9564787b76c59078bde5ab"
     },
     ".layall/previews/layall.webp": {
-      "sha256": "872c8455619b1d05178087e87420fdc3a71e59bb8d9c659d0fcafc13a7c452a2"
+      "sha256": "d7b0a38a9815f797dba916a8a650aebfcf38ed666c8fb21154797fd21e0005de"
     },
     ".layall/previews/minimal.webp": {
-      "sha256": "9ccefab87778b15a251b2485236b8fbf8a07a35bc83a5d55ca38bfd1993b3026"
+      "sha256": "a874888c541bec36805776662698355ddbfc2520e224b73ece8be4ce1e6ef2aa"
     },
     ".layall/previews/portfolio.webp": {
-      "sha256": "bf8db878bd37d54e52141fab038c706476333e020060479cc2c1aa0781882bfe"
+      "sha256": "c8f0202a831e4f18b3f4898a35d25672ebe0d9c9c60fb782fa19a4d6ddc3bc1d"
     },
     ".layall/schemas/layall-public-note-v1.schema.json": {
       "sha256": "55e2f23df58e79b4688c0267b688223e210598d9fbf4a8426aadc21d4561acdc"
@@ -33,7 +33,7 @@
       "sha256": "67e2d65cbdfee0963d2482c9d1dc37b96110042cc62fbf8c1b269d098547e989"
     },
     ".layall/template-manifest.json": {
-      "sha256": "2501872972cd57829f4039908c182a31eee5f8c61ad19c94ed6085135b613020"
+      "sha256": "5d7a911654b7e4f714e83f82ecafcce7c25f0c01346009b10497ff293637ca0a"
     },
     ".layall/theme.json": {
       "sha256": "ddac456a635519c8c93fc9217d9df3f62a43d57501e246aa1989590c4e910f11"
