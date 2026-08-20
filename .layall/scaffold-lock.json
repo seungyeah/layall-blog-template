@@ -3,7 +3,7 @@
   "version": 1,
   "templateVersion": "2.0.0",
   "generatorVersion": "0.1.0",
-  "embeddedBundleSha256": "7e5eb15f3e0449bca1170783ea71409e228ff94ee736e2ff2c638e372e2e2d28",
+  "embeddedBundleSha256": "9f3fe36b3cef1483a65aba41318494a12825d2a58bf46de6fc084d780485d315",
   "files": {
     ".layall-blog.json": {
       "sha256": "81bcca56c75685bde13d145da7735af1b3aaadf1fdd496a00c3cd48144e9b86b"
@@ -33,7 +33,7 @@
       "sha256": "67e2d65cbdfee0963d2482c9d1dc37b96110042cc62fbf8c1b269d098547e989"
     },
     ".layall/template-manifest.json": {
-      "sha256": "df0ae38720ab824c7f7c5e2e6f888c2cb02463f1786954b857244bf23466c58c"
+      "sha256": "2501872972cd57829f4039908c182a31eee5f8c61ad19c94ed6085135b613020"
     },
     ".layall/theme.json": {
       "sha256": "ddac456a635519c8c93fc9217d9df3f62a43d57501e246aa1989590c4e910f11"

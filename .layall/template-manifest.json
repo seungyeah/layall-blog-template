@@ -13,7 +13,7 @@
     "execution": "local-tauri",
     "engine": "askama",
     "generatorVersion": "0.1.0",
-    "embeddedBundleSha256": "7e5eb15f3e0449bca1170783ea71409e228ff94ee736e2ff2c638e372e2e2d28"
+    "embeddedBundleSha256": "9f3fe36b3cef1483a65aba41318494a12825d2a58bf46de6fc084d780485d315"
   },
   "paths": {
     "siteConfig": ".layall/site.toml",
