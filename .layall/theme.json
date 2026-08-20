@@ -1,0 +1,19 @@
+{
+  "format": "layall-theme",
+  "schemaVersion": 4,
+  "templateId": "layall-static-site",
+  "defaultThemeId": "layall",
+  "supportedThemeIds": [
+    "minimal",
+    "portfolio",
+    "docs",
+    "blog",
+    "github",
+    "layall"
+  ],
+  "colorModePolicy": "system",
+  "viewerOverrides": {
+    "enabled": true,
+    "storageSchemaVersion": 1
+  }
+}

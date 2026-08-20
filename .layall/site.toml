@@ -1,0 +1,49 @@
+schema_version = 1
+title = "LayAll Blog"
+description = "Public notes published with LayAll."
+locale = "ko-KR"
+timezone = "Asia/Seoul"
+posts_per_page = 12
+feed_items = 20
+
+[hosting]
+mode = "github-project"
+githubOwner = "seungyeah"
+repository = "layall-blog-template"
+
+[[authors]]
+id = "owner"
+name = "LayAll Author"
+
+[profile]
+displayName = "LayAll Author"
+handle = ""
+bio = ""
+location = ""
+avatarAttachment = ""
+
+[verification]
+google = ""
+naver = ""
+
+[comments.giscus]
+enabled = false
+repo = ""
+repo_id = ""
+category = ""
+category_id = ""
+mapping = "specific"
+strict = true
+reactions_enabled = true
+emit_metadata = false
+input_position = "bottom"
+lang = "ko"
+loading = "lazy"
+
+[activity]
+source = "layall-public"
+github_contributions_enabled = false
+
+[monetization]
+mode = "none"
+staticLinks = []

@@ -1,0 +1,48 @@
+{
+  "format": "layall-scaffold-lock",
+  "version": 1,
+  "templateVersion": "1.0.0",
+  "generatorVersion": "0.1.0",
+  "embeddedBundleSha256": "562951a0b00605a8c2ec07bfbae2cf11a3385dbebfc1010fe8628b7d5ec1251f",
+  "files": {
+    ".layall-blog.json": {
+      "sha256": "81bcca56c75685bde13d145da7735af1b3aaadf1fdd496a00c3cd48144e9b86b"
+    },
+    ".layall/previews/blog.webp": {
+      "sha256": "7d0f2a0a2e8a53cb6a54818535fa45997bf516ba344a24476d21a51906c63a21"
+    },
+    ".layall/previews/docs.webp": {
+      "sha256": "e24e0b8d35c991b867199f8c919bf43fbec6c181c40a902447e7998048b40bd6"
+    },
+    ".layall/previews/github.webp": {
+      "sha256": "4e04dc4ea9e86d4681d4f6853ef47b4c5473046bdd94abf20dcb8c02d5e3a62d"
+    },
+    ".layall/previews/layall.webp": {
+      "sha256": "8f58d39f611cd56f8b15eef8e184d8c403cbe3263c8025d4d81098a20be50bb9"
+    },
+    ".layall/previews/minimal.webp": {
+      "sha256": "b80dfac86f87e0fce84e00e010754d099d110256c71f547e5fb8ba0afb810d25"
+    },
+    ".layall/previews/portfolio.webp": {
+      "sha256": "e26803ffb212ed0e0ce08412147466a19502dba6da38f751869d4bc0833296ab"
+    },
+    ".layall/schemas/layall-public-note-v1.schema.json": {
+      "sha256": "55e2f23df58e79b4688c0267b688223e210598d9fbf4a8426aadc21d4561acdc"
+    },
+    ".layall/site.toml": {
+      "sha256": "67e2d65cbdfee0963d2482c9d1dc37b96110042cc62fbf8c1b269d098547e989"
+    },
+    ".layall/template-manifest.json": {
+      "sha256": "64e908cfa4d79f8dd317de72a4323b4bf4571ee7dcfe6676d4778359da2d937a"
+    },
+    ".layall/theme.json": {
+      "sha256": "ddac456a635519c8c93fc9217d9df3f62a43d57501e246aa1989590c4e910f11"
+    },
+    "content/.layall-folder.json": {
+      "sha256": "aec315441f96b429bb42b1a79df488a54777e9749667ef35269f330fd2d3d42e"
+    },
+    "docs/.nojekyll": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    }
+  }
+}

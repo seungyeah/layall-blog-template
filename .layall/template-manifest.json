@@ -1,0 +1,93 @@
+{
+  "format": "layall-static-site-template",
+  "schemaVersion": 4,
+  "themeContractVersion": 4,
+  "template": {
+    "id": "layall-static-site",
+    "version": "1.0.0",
+    "templateOwner": "seungyeah",
+    "templateRepository": "layall-blog-template"
+  },
+  "generator": {
+    "language": "rust",
+    "execution": "local-tauri",
+    "engine": "askama",
+    "generatorVersion": "0.1.0",
+    "embeddedBundleSha256": "562951a0b00605a8c2ec07bfbae2cf11a3385dbebfc1010fe8628b7d5ec1251f"
+  },
+  "paths": {
+    "siteConfig": ".layall/site.toml",
+    "themeConfig": ".layall/theme.json",
+    "publicNoteSchema": ".layall/schemas/layall-public-note-v1.schema.json",
+    "previewRoot": ".layall/previews",
+    "managedContentRoot": "content",
+    "generatedOutputRoot": "docs"
+  },
+  "appearance": {
+    "renderingModel": "single-semantic-document",
+    "runtimeVersion": 1,
+    "cssPackVersion": "4.0.0",
+    "supportedThemeIds": [
+      "minimal",
+      "portfolio",
+      "docs",
+      "blog",
+      "github",
+      "layall"
+    ],
+    "supportedColorModes": [
+      "light",
+      "dark"
+    ],
+    "repositoryColorModePolicies": [
+      "system",
+      "light",
+      "dark"
+    ]
+  },
+  "pages": {
+    "buildType": "legacy",
+    "sourceBranch": "default",
+    "sourcePath": "docs",
+    "requiresNoJekyll": true
+  },
+  "monetization": {
+    "supportedModes": [
+      "none",
+      "static-links"
+    ],
+    "adsenseSupported": false
+  },
+  "limits": {
+    "pagesCommitsPerRollingHour": 10,
+    "generatedBytes": 838860800,
+    "generatedFileCount": 20000,
+    "attachmentBytes": 20971520
+  },
+  "themes": [
+    {
+      "id": "minimal",
+      "preview": ".layall/previews/minimal.webp"
+    },
+    {
+      "id": "portfolio",
+      "preview": ".layall/previews/portfolio.webp"
+    },
+    {
+      "id": "docs",
+      "preview": ".layall/previews/docs.webp"
+    },
+    {
+      "id": "blog",
+      "preview": ".layall/previews/blog.webp"
+    },
+    {
+      "id": "github",
+      "preview": ".layall/previews/github.webp"
+    },
+    {
+      "id": "layall",
+      "preview": ".layall/previews/layall.webp"
+    }
+  ]
+}
